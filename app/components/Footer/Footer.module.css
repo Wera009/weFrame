@@ -1,0 +1,27 @@
+.footer{
+    display: flex;
+}
+.footer img {
+    width: 150px;
+    height: 150px;
+    background-color: transparent;
+  }
+.footer table{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    margin: 5px;
+    border-spacing:45px 15px;
+}
+.footer tr{
+    text-align: left;
+}
+.footer th td{
+padding: 5px;
+}
+.icons{
+    position: absolute;
+    right: 80px;
+    margin-top: 15px;
+    padding: 29px;
+}
