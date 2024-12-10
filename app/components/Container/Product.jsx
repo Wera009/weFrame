@@ -1,6 +1,5 @@
 import Image from "next/image";
 import product2 from "/Projects/NextJs-figma/weFrame/my-app/public/images/product2.jpg"
-import { FaRegHeart } from 'react-icons/fa';
 import styles from "./Products.module.css"
 const Product = () => {
   return (
